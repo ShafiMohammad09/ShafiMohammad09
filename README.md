@@ -22,6 +22,7 @@
 <a href="mailto:shafimohammad5050@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
+
 ----
 
 ## Trophy 🏆  
@@ -43,7 +44,10 @@
 
 - 📄 Know about my experiences [Resume]()
 
+----
+## Earned badges🎖️
 
+[![An image of @shafimohammad09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shafimohammad09)](https://holopin.io/@shafimohammad09)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.css3.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="js" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="python" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/oracle-3.svg" alt="Oracle" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mondodb" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="figma" width="90" height="45"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" alt="figma" width="90" height="45"/> </a> </p>
